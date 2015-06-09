@@ -1,22 +1,14 @@
 {
-  "name": "latlon-geohash",
-  "description": "Gustavo Niemeyer’s geocoding system",
-  "author": "Chris Veness",
+  "name": "latlon-geohash-bobbr",
+  "description": "Forked from Gustavo Niemeyer’s geocoding system",
+  "author": "Chris Veness, forked by Bob Ullery",
   "version": "1.0.1",
   "license": "MIT",
-  "homepage": "http://www.movable-type.co.uk/scripts/geohash.html",
   "main": "latlon-geohash.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chrisveness/latlon-geohash"
+    "url": "https://github.com/bobbr/latlon-geohash-bobbr"
   },
-  "keywords": [
-    "geohash",
-    "geocode",
-    "geolocation",
-    "latitude",
-    "longitude"
-  ],
   "devDependencies": {
     "browserify": "^4.0.0",
     "tap-spec": "^0.2.0",
